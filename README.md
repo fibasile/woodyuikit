@@ -4,7 +4,9 @@ Woody UI Kit
 Source Files
 ------------
 
-In the dxf folder you can find the kit's source files in Autocad R13 DXF Format.
+Source files are available in PDF and dxf format. 
+
+We are using Autocad R13 DXF Format.
 
 
 Boxed product
